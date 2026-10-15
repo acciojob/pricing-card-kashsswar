@@ -1,1 +1,75 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.pricing-card {
+    width: 300px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 20px auto;
+}
+
+.pricing-card img {
+    width: 100%;
+}
+
+.pricing-card h1 {
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+.pricing-card p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.pricing-card button {
+    padding: 15px 20px;
+    background-color: #ff5e5b;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
 /*  your css code here. If applicable */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.pricing-card {
+    width: 300px;
+    padding: 20px;
+    background-color: #f1f1f1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 20px auto;
+}
+
+.pricing-card img {
+    width: 100%;
+}
+
+.pricing-card h1 {
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+.pricing-card p {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.pricing-card button {
+    padding: 15px 20px;
+    background-color: #ff5e5b;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
